@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cities</key>
+	<array>
+		<string>Siloam Springs</string>
+		<string>Adelanto</string>
+		<string>Carlsbad</string>
+		<string>Danville</string>
+		<string>Encinitas</string>
+		<string>La Mirada</string>
+		<string>Lakeside</string>
+		<string>Lemoore</string>
+		<string>Shafter</string>
+		<string>View Park-Windsor Hills</string>
+		<string>Naugatuck</string>
+		<string>Stamford</string>
+		<string>West Haven</string>
+		<string>Fort Pierce</string>
+		<string>Olympia Heights</string>
+		<string>Flossmoor</string>
+		<string>Kankakee</string>
+		<string>Park Ridge</string>
+		<string>Prospect Heights</string>
+		<string>Ramsey</string>
+		<string>Warrenville</string>
+		<string>Jeffersonville</string>
+		<string>Ellsworth</string>
+		<string>Aspen Hill</string>
+		<string>Needham</string>
+		<string>Saugus</string>
+		<string>Goodrich</string>
+		<string>Saginaw</string>
+		<string>Traverse City</string>
+		<string>Moorhead</string>
+		<string>Cleveland</string>
+		<string>Lame Deer</string>
+		<string>Bristolville</string>
+		<string>Eastlake</string>
+		<string>Coatesville</string>
+		<string>West Norriton</string>
+		<string>Womelsdorf</string>
+		<string>Lumberton</string>
+		<string>Lehi</string>
+		<string>Fort Hunt</string>
+		<string>Herndon</string>
+		<string>North Creek</string>
+		<string>Vashon</string>
+		<string>South Milwaukee</string>
+		<string>Brick</string>
+		<string>Hamlin</string>
+		<string>Rotterdam</string>
+		<string>Whitestown</string>
+		<string>Simpsonville</string>
+		<string>St. Albans</string>
+	</array>
+	<key>MaleNames</key>
+	<array>
+		<string>Cairo Tibby</string>
+		<string>Selwyn Herbert</string>
+		<string>Isador Herbert</string>
+		<string>Sky Stanley</string>
+		<string>Allison Maitland</string>
+		<string>Jason Lou</string>
+		<string>Burt Wilford</string>
+		<string>Fisher Xander</string>
+		<string>Quincey Raymund</string>
+		<string>Benji Zechariah</string>
+		<string>Tad Jarred</string>
+		<string>Carran Cal</string>
+		<string>Kurt Fredrick</string>
+		<string>Humbert Eldred</string>
+		<string>Brantley Philip</string>
+		<string>Tad Jarred</string>
+		<string>Carran Cal</string>
+		<string>Kurt Fredrick</string>
+		<string>Humbert Eldred</string>
+		<string>Brantley Philip</string>
+		<string>Tad Jarred</string>
+		<string>Carran Cal</string>
+		<string>Kurt Fredrick</string>
+		<string>Humbert Eldred</string>
+		<string>Brantley Philip</string>
+		<string>Tad Jarred</string>
+		<string>Carran Cal</string>
+		<string>Kurt Fredrick</string>
+		<string>Humbert Eldred</string>
+		<string>Brantley Philip</string>
+	</array>
+	<key>FemaleNames</key>
+	<array>
+		<string>Freya Angie</string>
+		<string>Drina Candis</string>
+		<string>Anise Sidony</string>
+		<string>Beverley Jaimie</string>
+		<string>Reilly Gae</string>
+		<string>Deirdre Barb</string>
+		<string>Frances Kendra</string>
+		<string>Gisselle Milly</string>
+		<string>Eileen Elise</string>
+		<string>Journee Honey</string>
+		<string>Deirdre Barb</string>
+		<string>Frances Kendra</string>
+		<string>Gisselle Milly</string>
+		<string>Eileen Elise</string>
+		<string>Journee Honey</string>
+		<string>Deirdre Barb</string>
+		<string>Frances Kendra</string>
+		<string>Gisselle Milly</string>
+		<string>Eileen Elise</string>
+		<string>Journee Honey</string>
+		<string>Tory Janessa</string>
+		<string>Ronda Lennie</string>
+		<string>Marcie Jimmie</string>
+		<string>Leona Sally</string>
+		<string>Kalla Lennie</string>
+		<string>Adelle Prue</string>
+		<string>Maura Adalyn</string>
+		<string>Robynne Fallon</string>
+		<string>Blossom Sharyl</string>
+		<string>Ramona Harlow</string>
+	</array>
+	<key>HeroNames</key>
+	<array>
+		<string>The Flamingo Mask</string>
+		<string>Professor Fire</string>
+		<string>Hornet Shadow</string>
+		<string>The Nuclear Mask</string>
+		<string>Doctor Nemesis</string>
+		<string>Frost Mask</string>
+		<string>The Skeleton Bite</string>
+		<string>The Aqua Mask</string>
+		<string>Super Fly</string>
+		<string>The Legendary Mask</string>
+		<string>The Sapphire Braid</string>
+		<string>The Diamond Hourglass</string>
+		<string>The Indigo Clock</string>
+		<string>The Shining Mask</string>
+		<string>The Phenomenal Jaws</string>
+		<string>Fire Bat</string>
+		<string>Web Hex</string>
+		<string>The Yellow Synapse</string>
+		<string>Tiger Shadow</string>
+		<string>Neptune Mask</string>
+		<string>The Legendary Shadow</string>
+		<string>Professor Nemesis</string>
+		<string>The Sensational Warrior</string>
+		<string>Commander Machine</string>
+		<string>Hawk Puma</string>
+		<string>Fist Mask</string>
+		<string>The Shining Mask</string>
+		<string>The Emerald Prism</string>
+		<string>The Fantastic Facet</string>
+		<string>Doctor Nucleus</string>
+		<string>The Blue Glacier</string>
+		<string>The Dazzling Shadow</string>
+		<string>Beast Bat</string>
+		<string>Boulder Mask</string>
+		<string>Professor Nucleus</string>
+		<string>Shadow Puma</string>
+		<string>Uber Puma</string>
+		<string>The Dark Shadow</string>
+		<string>Super Puma</string>
+		<string>Rock Mask</string>
+		<string>Flea Mask</string>
+		<string>Lava Shadow</string>
+		<string>The Skeleton Gladiator</string>
+		<string>Web Puma</string>
+		<string>Ghost Mask</string>
+		<string>Mercury Mask</string>
+		<string>Mega Spider</string>
+		<string>Dream Flame</string>
+		<string>Giga Bane</string>
+		<string>The Crimson Dazzler</string>
+		<string>The Gold Ninja</string>
+		<string>Leopard Mask</string>
+		<string>Neuron Mask</string>
+		<string>Doctor Hornet</string>
+		<string>The Ruby Orchid</string>
+		<string>Mega Bat</string>
+		<string>The Green Boulder</string>
+		<string>Flamingo Shadow</string>
+		<string>Uber Mask</string>
+		<string>Captain Arachno</string>
+		<string>Captain Nemesis</string>
+		<string>Storm Shadow</string>
+		<string>Hawk Bat</string>
+		<string>The Neon Ninja</string>
+		<string>Dream Fly</string>
+		<string>Doctor Proxima</string>
+		<string>Diamond Flame</string>
+		<string>Hyper Hex</string>
+		<string>Sun Shadow</string>
+		<string>Doctor Puma</string>
+	</array>
+	<key>Powers</key>
+	<array>
+		<string>Ability Shift</string>
+		<string>Absolute Condition</string>
+		<string>Absorption</string>
+		<string>Acausality</string>
+		<string>Accelerated Development</string>
+		<string>Accelerated Healing</string>
+		<string>Acid Manipulation</string>
+		<string>Acid Resistants</string>
+		<string>Acidic Spit</string>
+		<string>Acrobatics</string>
+		<string>Adaptation</string>
+		<string>Afterimage Creation</string>
+		<string>Age Manipulation</string>
+		<string>Agility</string>
+		<string>Air Control</string>
+		<string>Amber</string>
+		<string>Amphibious Respiration</string>
+		<string>Angel Physiology</string>
+		<string>Animal Attributes</string>
+		<string>Animal Control</string>
+		<string>Animal Oriented Powers</string>
+		<string>Animated Shadow</string>
+		<string>Animation</string>
+		<string>Anti-Gravity</string>
+		<string>Antiforce Manipulation</string>
+		<string>Antimatter Manipulation</string>
+		<string>Apathy</string>
+		<string>Apotheosis</string>
+		<string>Arcane Magic</string>
+		<string>Arcane Magic</string>
+		<string>Astral Projection</string>
+		<string>Astral Trap</string>
+		<string>Astral Travel</string>
+		<string>Astro Force</string>
+		<string>Attack Negation</string>
+		<string>Attack Reflection</string>
+		<string>Audio Control</string>
+		<string>Aura</string>
+		<string>Avatar Creation</string>
+		<string>Awakened Power</string>
+		<string>Banish</string>
+		<string>Berserk Mode</string>
+		<string>Biokinesis</string>
+		<string>Bionics</string>
+		<string>Black Hole Manipulation</string>
+		<string>Blessed</string>
+		<string>Blood Manipulation</string>
+		<string>Bloodlust</string>
+		<string>Body Puppetry</string>
+		<string>Bone Manipulation</string>
+		<string>Broadway Force</string>
+		<string>Bullet Time</string>
+		<string>Camouflage</string>
+		<string>Causality Manipulation</string>
+		<string>Causality Resistance</string>
+		<string>Chain Manipulation</string>
+		<string>Changing Armor</string>
+		<string>Chaos Energy</string>
+		<string>Chaos Magic</string>
+		<string>Chaos Manipulation</string>
+		<string>Chemokinesis</string>
+		<string>Chi Manipulation</string>
+		<string>Clairvoyance</string>
+		<string>Clairvoyance Resistance</string>
+		<string>Cloaking</string>
+		<string>Cloning</string>
+		<string>Cloth Manipulation</string>
+		<string>Cobra Kai Karate</string>
+		<string>Cold Resistance</string>
+		<string>Compassion Inducement</string>
+		<string>Conceptual Manipulation</string>
+		<string>Corruption</string>
+		<string>Corruption Resistance</string>
+		<string>Cosmic Awareness</string>
+		<string>Creation</string>
+		<string>Cryokinesis</string>
+		<string>Crystal Touch</string>
+		<string>Curse Manipulation</string>
+		<string>Curse Resistance</string>
+		<string>Cyborgization</string>
+		<string>Damage Boost</string>
+		<string>Damage Reduction</string>
+		<string>Damage Transferal</string>
+		<string>Danger Sense</string>
+		<string>Danmaku</string>
+		<string>Dark Arts</string>
+		<string>Dark Magic</string>
+		<string>Darkforce Manipulation</string>
+		<string>Data Manipulation</string>
+		<string>Death Manipulation</string>
+		<string>Death Touch</string>
+		<string>Decay Embodiment</string>
+		<string>Deconstruction</string>
+		<string>Demon Physiology</string>
+		<string>Density Control</string>
+		<string>Dexterity</string>
+		<string>Dig</string>
+		<string>Dimension Storage</string>
+		<string>Dimensional Awareness</string>
+		<string>Dimensional Travel</string>
+		<string>Disguise Mastery</string>
+		<string>Divine Powers</string>
+		<string>Divinity</string>
+		<string>Dream Manipulation</string>
+		<string>Duplication</string>
+		<string>Durability</string>
+		<string>Durability Negation</string>
+		<string>Eagle Fang Karate</string>
+		<string>Echolocation</string>
+		<string>Ectoplasm Manipulation</string>
+		<string>Elasticity</string>
+		<string>Electrical Transport</string>
+		<string>Electricity Absorption</string>
+		<string>Electricity Resistance</string>
+		<string>Electro-Magnetism Manipulation</string>
+		<string>Electrokinesis</string>
+		<string>Element Control</string>
+		<string>Elemental Transmogrification</string>
+		<string>Emotional Power Up</string>
+		<string>EMP Generation</string>
+		<string>Empathy</string>
+		<string>Endurance</string>
+		<string>Energy Absorption</string>
+		<string>Energy Armor</string>
+		<string>Energy Beams</string>
+		<string>Energy Blasts</string>
+		<string>Energy Constructs</string>
+		<string>Energy Embodiment</string>
+		<string>Energy Manipulation</string>
+		<string>Energy Resistance</string>
+		<string>Enhanced Condition</string>
+		<string>Enhanced Hearing</string>
+		<string>Enhanced Memory</string>
+		<string>Enhanced Senses</string>
+		<string>Enhanced Sight</string>
+		<string>Enhanced Smell</string>
+		<string>Enhanced Thievery</string>
+		<string>Enhanced Touch</string>
+		<string>Enigma Force</string>
+		<string>Entropy Projection</string>
+		<string>Existence Erasure</string>
+		<string>Existence Erasure Resistance</string>
+		<string>Exorcism</string>
+		<string>Explosion Manipulation</string>
+		<string>Extrasensory Perception</string>
+		<string>Fate Manipulation</string>
+		<string>Fate Resistance</string>
+		<string>Fear Inducement</string>
+		<string>Fear Manipulation</string>
+		<string>Fire Control</string>
+		<string>Fire Resistance</string>
+		<string>Flight</string>
+		<string>Food Manipulation</string>
+		<string>Force Fields</string>
+		<string>Force Ghost</string>
+		<string>Force Speed</string>
+		<string>Fusion</string>
+		<string>Gadget Usage</string>
+		<string>Gamma Mutant Physiology</string>
+		<string>Gliding</string>
+		<string>Godly Physiology</string>
+		<string>Grappling/Climbing</string>
+		<string>Gravity Control</string>
+		<string>Greed Inducement</string>
+		<string>Grim Reaping</string>
+		<string>Hacking</string>
+		<string>Hair Manipulation</string>
+		<string>Heal</string>
+		<string>Heat Generation</string>
+		<string>Heat Resistance</string>
+		<string>Hellfire Manipulation</string>
+		<string>Hellfire Resistance</string>
+		<string>Higher Dimensional Manipulation</string>
+		<string>Hive-Mind</string>
+		<string>Holy Manipulation</string>
+		<string>Holy Resistance</string>
+		<string>Homing Attack</string>
+		<string>Hope Inducement</string>
+		<string>Hunters Instinct</string>
+		<string>Hyperkinesis</string>
+		<string>Hypnokinesis</string>
+		<string>Hypnotic Suggestion</string>
+		<string>Illumination</string>
+		<string>Illusion Resistance</string>
+		<string>Illusions</string>
+		<string>Immortality</string>
+		<string>Immortality Negation</string>
+		<string>Indestructible Digestion</string>
+		<string>Indomitable Will</string>
+		<string>Information Analysis</string>
+		<string>Information Manipulation</string>
+		<string>Inorganic Physiology</string>
+		<string>Insanity</string>
+		<string>Instinctive Reaction</string>
+		<string>Intangibility</string>
+		<string>Intelligence</string>
+		<string>Interstellar Travel</string>
+		<string>Intuitive aptitude</string>
+		<string>Invisibility</string>
+		<string>Invulnerability</string>
+		<string>Jaw Strength</string>
+		<string>Jump</string>
+		<string>Lantern Power Ring</string>
+		<string>Large Size</string>
+		<string>Laser Manipulation</string>
+		<string>Latent Abilities</string>
+		<string>Lava Manipulation</string>
+		<string>Law Manipulation</string>
+		<string>Levitation</string>
+		<string>Life Manipulation</string>
+		<string>Light Control</string>
+		<string>Liquid Transmutation</string>
+		<string>Longevity</string>
+		<string>Love Inducement</string>
+		<string>Luck</string>
+		<string>Madness Manipulation</string>
+		<string>Magic</string>
+		<string>Magic Absorption</string>
+		<string>Magic Resistance</string>
+		<string>Magma Manipulation</string>
+		<string>Magnetism</string>
+		<string>Marksmanship</string>
+		<string>Master Martial Artist</string>
+		<string>Master Tactician</string>
+		<string>Mathematics Manipulation</string>
+		<string>Matter Absorption</string>
+		<string>Matter Manipulation</string>
+		<string>Mechanical Aptitude</string>
+		<string>Melting</string>
+		<string>Memory Manipulation</string>
+		<string>Metal Manipulation</string>
+		<string>Metaphysics Manipulation</string>
+		<string>Microfilament Wires</string>
+		<string>Mind Blast</string>
+		<string>Mind Control</string>
+		<string>Mind Control Resistance</string>
+		<string>Mind Transfer</string>
+		<string>Molecular Combustion</string>
+		<string>Molecular Dissipation</string>
+		<string>Molecular Immobilization</string>
+		<string>Molecular Manipulation</string>
+		<string>Molecular Oscillation</string>
+		<string>Morality Manipulation</string>
+		<string>Multiple Limbs</string>
+		<string>Multiple Personalities</string>
+		<string>Musical Inducement</string>
+		<string>Nanotechnology</string>
+		<string>Natural Armor</string>
+		<string>Natural Weapons</string>
+		<string>Necromancy</string>
+		<string>Negative Speed Force</string>
+		<string>Nen Manipulation</string>
+		<string>Neon Blasts</string>
+		<string>New Power</string>
+		<string>Nigh-Omnipotence</string>
+		<string>Nigh-Omnipresence</string>
+		<string>Nigh-Omniscience</string>
+		<string>Ninjutsu</string>
+		<string>Non-Corporeal</string>
+		<string>Non-Physical Interaction</string>
+		<string>Nothingness Aspect Manifestation</string>
+		<string>Nova Force</string>
+		<string>Ocular Techniques</string>
+		<string>Odin Force</string>
+		<string>Old Power</string>
+		<string>Omega Effect</string>
+		<string>Omega Sanction</string>
+		<string>Omni-Sense</string>
+		<string>Omnifabrication</string>
+		<string>Omnikinesis</string>
+		<string>Omnilingualism</string>
+		<string>Omnilock</string>
+		<string>Omnimimicry</string>
+		<string>Omnipotence</string>
+		<string>Omnipresence</string>
+		<string>Omniscience</string>
+		<string>Omnitrix</string>
+		<string>Orbing</string>
+		<string>Organic Manipulation</string>
+		<string>Origin Manipulation</string>
+		<string>Pain Manipulation</string>
+		<string>Pain Suppression</string>
+		<string>Paper Manipulation</string>
+		<string>Paralysis</string>
+		<string>Pataphysics Manipulation</string>
+		<string>Peak Human Condition</string>
+		<string>Penance Stare</string>
+		<string>Perception Manipulation</string>
+		<string>Perfect Recollection</string>
+		<string>Petrification</string>
+		<string>Phasing</string>
+		<string>Phoenix Force</string>
+		<string>Photographic Reflexes</string>
+		<string>Physical Anomaly</string>
+		<string>Physics Manipulation</string>
+		<string>Plant Control</string>
+		<string>Plasma Manipulation</string>
+		<string>Plot Manipulation</string>
+		<string>Plot Manipulation Resistance</string>
+		<string>Pocket Dimensions</string>
+		<string>Portal Creation</string>
+		<string>Possession</string>
+		<string>Possession Resistance</string>
+		<string>Postcognition</string>
+		<string>Power Absorption</string>
+		<string>Power Absorption Immunity</string>
+		<string>Power Augmentation</string>
+		<string>Power Bestowal</string>
+		<string>Power Cosmic</string>
+		<string>Power Mimicry</string>
+		<string>Power Mimicry Immunity</string>
+		<string>Power Modification</string>
+		<string>Power Nullifier</string>
+		<string>Power Primordial</string>
+		<string>Power Sense</string>
+		<string>Power Suit</string>
+		<string>Precognition</string>
+		<string>Preparation</string>
+		<string>Pressure Points</string>
+		<string>Probability Manipulation</string>
+		<string>Projection</string>
+		<string>Psionic Powers</string>
+		<string>Psychometry</string>
+		<string>Purification</string>
+		<string>Quantum Manipulation</string>
+		<string>Qwardian Power Ring</string>
+		<string>Radar Sense</string>
+		<string>Radiation Absorption</string>
+		<string>Radiation Control</string>
+		<string>Radiation Immunity</string>
+		<string>Rage Inducement</string>
+		<string>Rage Power</string>
+		<string>Rainbow Energy</string>
+		<string>Reactive Evolution</string>
+		<string>Reactive Power Level</string>
+		<string>Reality Warping</string>
+		<string>Reality Warping Resistance</string>
+		<string>Reflexes</string>
+		<string>Regeneration</string>
+		<string>Regeneration Negation</string>
+		<string>Resurrection</string>
+		<string>Robotic Engineering</string>
+		<string>Rune Magic</string>
+		<string>Sage Mode</string>
+		<string>Salvation</string>
+		<string>Sand Manipulation</string>
+		<string>Sealing</string>
+		<string>Seismic Power</string>
+		<string>Self-Destruction</string>
+		<string>Self-Sustenance</string>
+		<string>Sense Manipulation</string>
+		<string>Separation</string>
+		<string>Shadow Manipulation</string>
+		<string>Shapeshifting</string>
+		<string>Shockwaves Generation</string>
+		<string>Size Changing</string>
+		<string>Sleep Manipulation</string>
+		<string>Smoke Manipulation</string>
+		<string>Social Influencing</string>
+		<string>Sonar</string>
+		<string>Sonic Scream</string>
+		<string>Sotobro Effect</string>
+		<string>Soul Manipulation</string>
+		<string>Soul Resistance</string>
+		<string>Sound Manipulation</string>
+		<string>Space Survivability</string>
+		<string>Spaceflight</string>
+		<string>Spatial Awareness</string>
+		<string>Spatial Communication</string>
+		<string>Spatial Manipulation</string>
+		<string>Speed Force</string>
+		<string>Spinjitzu</string>
+		<string>Spirit Control</string>
+		<string>Stamina</string>
+		<string>Stands</string>
+		<string>Statistics Amplification</string>
+		<string>Statistics Reduction</string>
+		<string>Status Effect Inducement</string>
+		<string>Stealth</string>
+		<string>Still Force</string>
+		<string>Strength Force</string>
+		<string>Sub-Mariner</string>
+		<string>Subatomic Manipulation</string>
+		<string>Subjective Reality</string>
+		<string>Substance Secretion</string>
+		<string>Subterranean</string>
+		<string>Summoning</string>
+		<string>Super Breath</string>
+		<string>Super Speed</string>
+		<string>Super Strength</string>
+		<string>Supernatural Condition</string>
+		<string>Supreme Power</string>
+		<string>Surface Scaling</string>
+		<string>Swordsmanship</string>
+		<string>Symbiote Costume</string>
+		<string>Symbiotic Regeneration</string>
+		<string>Technological Possession</string>
+		<string>Technopath/Cyberpath</string>
+		<string>Telekinesis</string>
+		<string>Telepathy</string>
+		<string>Telepathy Resistance</string>
+		<string>Teleportation</string>
+		<string>Tentacles</string>
+		<string>Terrakinesis</string>
+		<string>The Black</string>
+		<string>The Clear</string>
+		<string>The Divided</string>
+		<string>The Force</string>
+		<string>The Fourth Wall</string>
+		<string>The Green</string>
+		<string>The Grey</string>
+		<string>The Life Entity</string>
+		<string>The Melt</string>
+		<string>The Metal</string>
+		<string>The Red</string>
+		<string>The White</string>
+		<string>Thirstokinesis</string>
+		<string>Time Manipulation</string>
+		<string>Time Manipulation Resistance</string>
+		<string>Time Travel</string>
+		<string>Timeframe Control</string>
+		<string>Toon Force</string>
+		<string>Toxin and Disease Control</string>
+		<string>Toxin and Disease Resistance</string>
+		<string>Transduality</string>
+		<string>Transformation</string>
+		<string>Transmutation</string>
+		<string>Truth Manipulation</string>
+		<string>Umbrakinesis</string>
+		<string>Underwater breathing</string>
+		<string>Unholy Manipulation</string>
+		<string>Unholy Resistance</string>
+		<string>Uni-Power</string>
+		<string>Vaporising Beams</string>
+		<string>Vehicular Mastery</string>
+		<string>Venomous Bite</string>
+		<string>Vibration Manipulation</string>
+		<string>Vision - Cryo</string>
+		<string>Vision - Heat</string>
+		<string>Vision - Infrared</string>
+		<string>Vision - Microscopic</string>
+		<string>Vision - Night</string>
+		<string>Vision - Telescopic</string>
+		<string>Vision - Thermal</string>
+		<string>Vision - X-Ray</string>
+		<string>Vitakinesis</string>
+		<string>Void Manipulation</string>
+		<string>Vortex Creation</string>
+		<string>Wallcrawling</string>
+		<string>Water Control</string>
+		<string>Weapon Creation</string>
+		<string>Weapon Summoning</string>
+		<string>Weapon-based Powers</string>
+		<string>Weapons Master</string>
+		<string>Weather Control</string>
+		<string>Web Creation</string>
+		<string>Will Of God</string>
+		<string>Willpower Inducement</string>
+		<string>Willpower Manipulation</string>
+		<string>Wind Control</string>
+		<string>Wing Manifestation</string>
+		<string>Wishing</string>
+		<string>Wood Manipulation</string>
+		<string>Writing Manipulation</string>
+		<string>Zenith</string>
+		<string>Zombie Physiology</string>
+	</array>
+	<key>Squads</key>
+	<array>
+		<string>The Aberrations</string>
+		<string>The Angels</string>
+		<string>The Arachnid Crusaders</string>
+		<string>The Augmented Alliance</string>
+		<string>The Aura Clan</string>
+		<string>The Behemoth Heroes</string>
+		<string>The Blitz Guards</string>
+		<string>The Cardinal Marvels</string>
+		<string>The Champions</string>
+		<string>The Coverts</string>
+		<string>The Crisis Troopers</string>
+		<string>The Crux Force</string>
+		<string>The Custodian Centurions</string>
+		<string>The Demon Watch</string>
+		<string>The Destiny Knights</string>
+		<string>The Divine Allies</string>
+		<string>The Eerie Masters</string>
+		<string>The Elite</string>
+		<string>The Enigma Centurions</string>
+		<string>The Enigmas</string>
+		<string>The Freak Watch</string>
+		<string>The Future League</string>
+		<string>The Galaxy Defenders</string>
+		<string>The Global Guardians</string>
+		<string>The Goliaths</string>
+		<string>The Guardians</string>
+		<string>The Infernals</string>
+		<string>The Infinity Squadron</string>
+		<string>The Inventions</string>
+		<string>The Ironclad Crusaders</string>
+		<string>The Justice Defenders</string>
+		<string>The Maestros</string>
+		<string>The Maroon Alliance</string>
+		<string>The Maroons</string>
+		<string>The Mirage Troopers</string>
+		<string>The Mirages</string>
+		<string>The Myriad Oracles</string>
+		<string>The Nebulas</string>
+		<string>The Nightmares</string>
+		<string>The Omega Battalion</string>
+		<string>The Omegas</string>
+		<string>The Oracles</string>
+		<string>The Paradox Outcasts</string>
+		<string>The Paramount Watch</string>
+		<string>The Phantom Oracles</string>
+		<string>The Phenomenon Syndicate</string>
+		<string>The Pinnacle Rebels</string>
+		<string>The Pioneers</string>
+		<string>The Primal Marvels</string>
+		<string>The Prodigy Pack</string>
+		<string>The Revelation Rangers</string>
+		<string>The Shadow Centurions</string>
+		<string>The Shadow Rangers</string>
+		<string>The Shepherd Pack</string>
+		<string>The Silent Ones</string>
+		<string>The Skirmish Heroes</string>
+		<string>The Sovereign Soldiers</string>
+		<string>The Spectrals</string>
+		<string>The Storm Force</string>
+		<string>The Storm Knights</string>
+		<string>The Terra Syndicate</string>
+		<string>The Thunders</string>
+		<string>The Trinities</string>
+		<string>The Vagrant Outcasts</string>
+		<string>The Vigilante Custodians</string>
+		<string>The Vindicators</string>
+		<string>The Void Unit</string>
+		<string>The Whispers</string>
+		<string>The Wings</string>
+		<string>The Wonders</string>
+	</array>
+</dict>
+</plist>
